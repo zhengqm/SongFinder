@@ -2,7 +2,7 @@
 
 A spectrum analysis based music finder.
 
-Write-up: [Blog post]() (in Chinese)
+Write-up: [Blog post](http://zhengqm.github.io/code/2015/07/23/write-you-a-song-finder/) (in Chinese)
 
 ## Demo
 
@@ -34,8 +34,6 @@ original/我要快樂 - 張惠妹 28
 ```
 
 For record8.wav:
-
-Result:
 
 ```python
 In [5]: engine.search('record/record8.wav')
