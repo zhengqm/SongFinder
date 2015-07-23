@@ -26,6 +26,7 @@ For:
 
 <audio controls="controls">
   <source src="record0.wav" type="audio/wav" />
+  <embed src="record0.mp3" />
 </audio>
 
 Result:
@@ -43,6 +44,7 @@ For:
 
 <audio controls="controls">
   <source src="record8.wav" type="audio/wav" />
+  <embed src="record8.mp3" />
 </audio>
 
 Result:
