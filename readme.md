@@ -22,14 +22,7 @@ In [3]: engine.index('original')
 
 ### Search
 
-For:
-
-<audio controls="controls">
-  <source src="record0.wav" type="audio/wav" />
-  <embed src="record0.mp3" />
-</audio>
-
-Result:
+For record0.wav:
 
 ``` python
 In [4]: engine.search('record/record0.wav')
@@ -40,12 +33,7 @@ original/周杰伦-枫 28
 original/我要快樂 - 張惠妹 28
 ```
 
-For:
-
-<audio controls="controls">
-  <source src="record8.wav" type="audio/wav" />
-  <embed src="record8.mp3" />
-</audio>
+For record8.wav:
 
 Result:
 
